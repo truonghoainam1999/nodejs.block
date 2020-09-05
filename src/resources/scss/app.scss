@@ -1,0 +1,13 @@
+@import 'variable';
+h1 {
+    color: red;
+}
+h2 {
+    color: $red-color;
+}
+.user-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 28px;
+    margin-left: 4px;
+}
